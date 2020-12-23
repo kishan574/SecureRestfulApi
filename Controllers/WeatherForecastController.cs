@@ -13,7 +13,7 @@ namespace CoreWebApiRestArchi_Pluralsight.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Smoking", "Sweltering", "Scorching"
+            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Chill", "Balmy", "Smoking", "Sweltering", "Scorching"
         };
         private readonly ILogger<WeatherForecastController> _logger;
 
